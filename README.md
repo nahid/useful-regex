@@ -30,7 +30,7 @@
 #### Bangladeshi Mobile Number
 
 ```
-^(\+88)?01[56789][0-9]{8}$
+^(\+88)?01[356789][0-9]{8}$
 ```
 
 #### Bangladeshi Vehicle Registration
